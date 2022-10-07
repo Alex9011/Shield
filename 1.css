@@ -850,4 +850,8 @@
         .seventh-column-three{
         margin-right:0 ;
     }
+        .fourth-title{
+        display: flex;
+        justify-content: center;
+    }
 }
